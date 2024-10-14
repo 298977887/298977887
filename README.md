@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @298977887
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 你好，欢迎来到我的 GitHub 主页！ 👋
 
-<!---
-298977887/298977887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 我是 RUI  
+👀 我对软件开发、自动化脚本、以及新技术的探索充满兴趣。  
+🌱 我目前正在学习TS、高级批处理脚本、Python编程以及云计算平台。  
+💞️ 我希望与他人合作，共同开发与自动化工具、脚本及提升生产力相关的开源项目。  
+📫 你可以通过邮箱 [298977887@qq.com](mailto:298977887@qq.com) 联系我。  
+😄 我喜欢用脚本解决日常问题，热衷于自动化任务的实现！
+
+---
+
+感谢访问我的 GitHub 仓库！欢迎交流与合作！
